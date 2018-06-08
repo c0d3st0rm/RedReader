@@ -795,7 +795,7 @@
 
 	<!-- 2016-06-24 -->
 	<string name="save_image_permission_denied">Permission denied: could not save image.</string>
-	
+
 	<!-- 2016-06-25 -->
 	<string name="pref_behaviour_imageview_mode_title">Image Viewer</string>
 	<string name="pref_behaviour_imageview_mode_key" translatable="false">pref_behaviour_imageview_mode</string>
@@ -811,7 +811,7 @@
 
 	<!-- 2016-06-30 -->
 	<string name="inbox_unread_only">Unread Messages Only</string>
-	
+
 	<!-- 2016-07-02 -->
 	<string name="pref_behaviour_actions_comment_longclick_key" translatable="false">pref_behaviour_actions_comment_longclick</string>
 	<string name="pref_behaviour_actions_comment_longclick_title">Comment Long Click Action</string>
@@ -834,7 +834,7 @@
 	<string name="submit_post_actionbar">Submit Post</string>
 	<string name="submit_comment_actionbar">Submit Comment</string>
 	<string name="edit_comment_actionbar">Edit Comment</string>
-	
+
 	<!-- 2016-07-16 -->
 	<string name="pref_behaviour_fling_comment_left_key" translatable="false">pref_behaviour_fling_comment_left</string>
 	<string name="pref_behaviour_fling_comment_left_title">Fling Comment Left Action</string>
@@ -1048,12 +1048,15 @@
 	<!-- 2018-02-10 -->
 	<string name="search_listing_header_query">Search Query</string>
 	<string name="search_listing_header_sub">Limit to Subreddit</string>
-  
+
 	<!-- 2018-02-11 -->
 	<string name="pref_behaviour_sharing_header">Sharing</string>
 	<string name="pref_behaviour_sharing_include_desc_key" translatable="false">pref_behaviour_sharing_include_desc</string>
 	<string name="pref_behaviour_sharing_include_desc_title">Include title/description when sharing</string>
 	<string name="share_comments_for">Comments for %s</string>
 	<string name="share_comment_by_on_reddit">Comment by %s on Reddit</string>
+
+	<!-- 2018-03-31 -->
+	<string name="lang_eu" translatable="false">Euskara</string>
 
 </resources>
